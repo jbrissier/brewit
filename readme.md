@@ -1,6 +1,6 @@
 # BrewIT Doku
 
-Elektronische Brausteuerung von JB zum Brauen von Bier.
+Elektronische Brausteuerung von JB zum brauen von Bier.
 
 
 ## Funktionen 
